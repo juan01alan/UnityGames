@@ -1,11 +1,12 @@
 🎮 Unity Game Demos Repository
 
 Bem-vindo ao meu repositório de demonstrações e protótipos de jogos criados na Unity.
-Este espaço reúne experimentos, mecânicas e pequenos projetos que desenvolvi para praticar, testar ideias e explorar diferentes estilos de gameplay.
+Este espaço reúne experimentos, mecânicas e pequenos projetos que desenvolvi para praticar, testar ideias e explorar diferentes estilos de gameplay. 
+Não são todos os projetos que fiz, porque alguns estão protegidos por contrato, mas esses são algumas demos que fiz.
 
 🚀 Sobre
 
-Desenvolvido em Unity (2021.3 LTS+)
+Desenvolvido em Unity 6.
 
 Scripts em C#
 
