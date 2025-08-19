@@ -1,0 +1,10 @@
+# ninja log v5
+17	9935	7744080166976610	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c6cb8a1a9be0bb38
+22	10053	7744080167636653	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	64f81d902c2d3841
+12	10062	7744080168846759	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f18577e11d7250d6
+6	10221	7744080172126975	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8671c3a38a8561f2
+28	10482	7744080175324643	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d0480d359b4fffdc
+0	10710	7744080177796682	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6cf6b0a52e0796b
+10054	11759	7744080188292493	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bd2191dd9c719a57
+10044	12890	7744080199590785	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ca14d804e66a8c7f
+12890	13009	7744080200880872	D:/UnityProject/Snowboard endeless/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/664y402w/obj/arm64-v8a/libgame.so	cb03d09fcda25a37

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0e5642c7a5e6da247a55a3fa246598ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Scripts/AI System/AI Setup/AIBehaviour.cs
+  uploadId: 500154

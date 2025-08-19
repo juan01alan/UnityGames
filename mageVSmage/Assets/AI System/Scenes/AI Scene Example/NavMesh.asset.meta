@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df344787a551dd94e8488487dd3695ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Scenes/AI Scene Example/NavMesh.asset
+  uploadId: 500154

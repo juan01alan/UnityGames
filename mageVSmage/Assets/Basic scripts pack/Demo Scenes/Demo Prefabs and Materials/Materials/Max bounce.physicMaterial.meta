@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c090b65ab4e960a49b3a95b5b6fc73f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306227
+  packageName: Basic Scripts Pack / Junior C# Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/Basic scripts pack/Demo Scenes/Demo Prefabs and Materials/Materials/Max
+    bounce.physicMaterial
+  uploadId: 720019

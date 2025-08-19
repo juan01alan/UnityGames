@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6b22a225e53e6249ad319a747b3e6a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Prefabs/Bullet.prefab
+  uploadId: 500154

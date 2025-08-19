@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 641d98ce30834584e93953a89c006a5d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Scenes/AI Scene Example.unity
+  uploadId: 500154

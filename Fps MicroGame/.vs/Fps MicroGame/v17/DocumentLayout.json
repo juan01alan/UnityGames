@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Fps MicroGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7211EED8-95A7-F46A-62D8-442122772706}|Assembly-CSharp.csproj|D:\\UnityProject\\Fps MicroGame\\assets\\playerfps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7211EED8-95A7-F46A-62D8-442122772706}|Assembly-CSharp.csproj|solutionrelative:assets\\playerfps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7211EED8-95A7-F46A-62D8-442122772706}|Assembly-CSharp.csproj|d:\\unityproject\\fps microgame\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7211EED8-95A7-F46A-62D8-442122772706}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7211EED8-95A7-F46A-62D8-442122772706}|Assembly-CSharp.csproj|D:\\UnityProject\\Fps MicroGame\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7211EED8-95A7-F46A-62D8-442122772706}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\Fps MicroGame\\Assets\\destroyAfter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\destroyAfter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\Fps MicroGame\\Assets\\btMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\btMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "destroyAfter.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Fps MicroGame\\Assets\\destroyAfter.cs",
+              "RelativeDocumentMoniker": "Assets\\destroyAfter.cs",
+              "ToolTip": "D:\\UnityProject\\Fps MicroGame\\Assets\\destroyAfter.cs",
+              "RelativeToolTip": "Assets\\destroyAfter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:49:48.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "btMenu.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Fps MicroGame\\Assets\\btMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\btMenu.cs",
+              "ToolTip": "D:\\UnityProject\\Fps MicroGame\\Assets\\btMenu.cs",
+              "RelativeToolTip": "Assets\\btMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:21:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Fps MicroGame\\Assets\\enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\enemy.cs",
+              "ToolTip": "D:\\UnityProject\\Fps MicroGame\\Assets\\enemy.cs",
+              "RelativeToolTip": "Assets\\enemy.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwH0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:44:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playerFPS.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Fps MicroGame\\Assets\\playerFPS.cs",
+              "RelativeDocumentMoniker": "Assets\\playerFPS.cs",
+              "ToolTip": "D:\\UnityProject\\Fps MicroGame\\Assets\\playerFPS.cs",
+              "RelativeToolTip": "Assets\\playerFPS.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAADwv4oAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:51:42.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bullet.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Fps MicroGame\\Assets\\bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\bullet.cs",
+              "ToolTip": "D:\\UnityProject\\Fps MicroGame\\Assets\\bullet.cs",
+              "RelativeToolTip": "Assets\\bullet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:36:56.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a063b50c724430b47b1dd96885d36077
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306227
+  packageName: Basic Scripts Pack / Junior C# Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/Basic scripts pack/_Prefabs/Triggers/Materials/Visible trigger
+    material.mat
+  uploadId: 720019

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d2319b22633d6a343a3cb98248d0bbe6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Scripts/AI System/LastKnownLocation.cs
+  uploadId: 500154

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2c743cd08af80c4f970c0efa293e3b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Scenes/Materials/Player.mat
+  uploadId: 500154

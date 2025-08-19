@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 765536f073ef91d4889183c3819c732d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306227
+  packageName: Basic Scripts Pack / Junior C# Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/Basic scripts pack/Demo Scenes/Demo Prefabs and Materials/Collision
+    sound handler rigidbody.prefab
+  uploadId: 720019

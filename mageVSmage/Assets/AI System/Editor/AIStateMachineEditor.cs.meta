@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c662c7953d27494fa748e15f257a7be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Editor/AIStateMachineEditor.cs
+  uploadId: 500154

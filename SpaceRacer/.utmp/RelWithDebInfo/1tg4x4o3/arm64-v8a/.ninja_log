@@ -1,0 +1,12 @@
+# ninja log v5
+18	2850	7742137567180243	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	758599a2b042f254
+31	3000	7742137567390250	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9920cf3b407e7323
+7	3058	7742137567880305	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c8ac114daa413049
+1	3076	7742137568850352	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	eb95a60204cd2882
+26	3392	7742137572700644	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	74d649b83be4e672
+13	3539	7742137574386068	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	588d073d4c9a6c79
+3067	4084	7742137578631600	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	72ac42945e318c50
+4084	4199	7742137581046865	D:/UnityProject/SpaceRacer/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1tg4x4o3/obj/arm64-v8a/libswappywrapper.so	af7889061266fead
+3000	4649	7742137585422261	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	151ed604eb36d79a
+2992	5573	7742137594832954	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	34cb1393843d88d5
+5574	5674	7742137595883035	D:/UnityProject/SpaceRacer/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1tg4x4o3/obj/arm64-v8a/libgame.so	4bcdbadecc680c4a

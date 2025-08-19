@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 62a3f6d7b4d47de46a8d92d60de5863d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306227
+  packageName: Basic Scripts Pack / Junior C# Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/Basic scripts pack/Demo Scenes/Demo Prefabs and Materials/Materials/Demo
+    floor.mat
+  uploadId: 720019

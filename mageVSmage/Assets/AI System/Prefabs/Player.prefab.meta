@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef6697db8e083984fbd97a2a5f268fb9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Prefabs/Player.prefab
+  uploadId: 500154

@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\mageVSmage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\ai system\\scripts\\ai system\\aistatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\ai system\\scripts\\ai system\\aistatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|d:\\unityproject\\magevsmage\\assets\\ai system\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\ai system\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|d:\\unityproject\\magevsmage\\assets\\textdamager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\textdamager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\enemy1folder\\enemyadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy1folder\\enemyadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\ai system\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\ai system\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\enemy1folder\\enemy1folder\\comberscriptenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy1folder\\enemy1folder\\comberscriptenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\attackblescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\attackblescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\spellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\spellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\healthpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\healthpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\enemy1folder\\enemy1folder\\wolfinvokedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy1folder\\enemy1folder\\wolfinvokedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\wolfinvoked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\wolfinvoked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\comberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\comberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\powermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\powermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\animatorintermedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\animatorintermedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\attackprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\attackprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\ilumisoft\\health system\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\ilumisoft\\health system\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|D:\\UnityProject\\mageVSmage\\assets\\gotomenudelayed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B960E5A-1D7B-788B-067C-620A07448FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\gotomenudelayed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "textDamager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\textDamager.cs",
+              "RelativeDocumentMoniker": "Assets\\textDamager.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\textDamager.cs",
+              "RelativeToolTip": "Assets\\textDamager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:31:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "healthPicker.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\healthPicker.cs",
+              "RelativeDocumentMoniker": "Assets\\healthPicker.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\healthPicker.cs",
+              "RelativeToolTip": "Assets\\healthPicker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:27:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "spellcaster.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\spellcaster.cs",
+              "RelativeDocumentMoniker": "Assets\\spellcaster.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\spellcaster.cs",
+              "RelativeToolTip": "Assets\\spellcaster.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:49:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "comberScriptEnemy.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\Enemy1Folder\\Enemy1Folder\\comberScriptEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy1Folder\\Enemy1Folder\\comberScriptEnemy.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\Enemy1Folder\\Enemy1Folder\\comberScriptEnemy.cs",
+              "RelativeToolTip": "Assets\\Enemy1Folder\\Enemy1Folder\\comberScriptEnemy.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:28:15.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "wolfInvoked.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\wolfInvoked.cs",
+              "RelativeDocumentMoniker": "Assets\\wolfInvoked.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\wolfInvoked.cs",
+              "RelativeToolTip": "Assets\\wolfInvoked.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:08:21.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "wolfInvokedEnemy.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\Enemy1Folder\\Enemy1Folder\\wolfInvokedEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy1Folder\\Enemy1Folder\\wolfInvokedEnemy.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\Enemy1Folder\\Enemy1Folder\\wolfInvokedEnemy.cs",
+              "RelativeToolTip": "Assets\\Enemy1Folder\\Enemy1Folder\\wolfInvokedEnemy.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:08:20.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GoToMenuDelayed.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\GoToMenuDelayed.cs",
+              "RelativeDocumentMoniker": "Assets\\GoToMenuDelayed.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\GoToMenuDelayed.cs",
+              "RelativeToolTip": "Assets\\GoToMenuDelayed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:57:17.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\Ilumisoft\\Health System\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Ilumisoft\\Health System\\Scripts\\Health.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\Ilumisoft\\Health System\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Ilumisoft\\Health System\\Scripts\\Health.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:40:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enemyAdmin.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\Enemy1Folder\\enemyAdmin.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy1Folder\\enemyAdmin.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\Enemy1Folder\\enemyAdmin.cs",
+              "RelativeToolTip": "Assets\\Enemy1Folder\\enemyAdmin.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:00:40.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\AI System\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\AI System\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\AI System\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\AI System\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAewJ4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T23:31:28.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimatorIntermedium.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\AnimatorIntermedium.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimatorIntermedium.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\AnimatorIntermedium.cs",
+              "RelativeToolTip": "Assets\\AnimatorIntermedium.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:10:46.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIStateMachine.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\AI System\\Scripts\\AI System\\AIStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\AI System\\Scripts\\AI System\\AIStateMachine.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\AI System\\Scripts\\AI System\\AIStateMachine.cs",
+              "RelativeToolTip": "Assets\\AI System\\Scripts\\AI System\\AIStateMachine.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwPoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:48:26.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\AI System\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\AI System\\Scripts\\Enemy\\EnemyController.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\AI System\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\AI System\\Scripts\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:48:50.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttackProjectile.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\AttackProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\AttackProjectile.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\AttackProjectile.cs",
+              "RelativeToolTip": "Assets\\AttackProjectile.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:09:29.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "comberScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\comberScript.cs",
+              "RelativeDocumentMoniker": "Assets\\comberScript.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\comberScript.cs",
+              "RelativeToolTip": "Assets\\comberScript.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAIwHsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:11:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "powerManage.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\powerManage.cs",
+              "RelativeDocumentMoniker": "Assets\\powerManage.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\powerManage.cs",
+              "RelativeToolTip": "Assets\\powerManage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:07:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttackbleScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\mageVSmage\\Assets\\AttackbleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\AttackbleScript.cs",
+              "ToolTip": "D:\\UnityProject\\mageVSmage\\Assets\\AttackbleScript.cs",
+              "RelativeToolTip": "Assets\\AttackbleScript.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:13:03.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

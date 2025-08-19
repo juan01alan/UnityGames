@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f708c53cf1ae0564b84eb0f0c02fc01e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Scenes/Materials/Enemy.mat
+  uploadId: 500154

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2b26ae6f9052eab45842f86829b6301d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213980
+  packageName: AI System (Finite)
+  packageVersion: 1.02
+  assetPath: Assets/AI System/Scripts/AI System/IdleBehaviour.cs
+  uploadId: 500154
