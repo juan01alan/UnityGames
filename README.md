@@ -18,10 +18,7 @@ Inclui exemplos em 2D e 3D
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/unity-game-demos.git
-
-
-Abra com Unity Hub (versão recomendada: 2021.3 LTS ou superior).
+Abra com Unity Hub (versão recomendada: 2025 ou superior).
 
 Selecione a cena desejada dentro de cada pasta de projeto.
 
